@@ -1,6 +1,6 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)](https://codegrills.in)
 <h1 align="left">Hi 👋, I'm Muhammad Rushad Arab</h1>
-<h3 align="left">A passionate about Machine Learning and Artificial Intelligence</h3>
+<h3 align="left">A passionate student about Machine Learning and Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="395" src="https://media.tenor.com/ssrPjH125bMAAAAd/c4tgothm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushaad7&label=Profile%20views&color=0e75b6&style=flat" alt="rushaad7" /> </p>
